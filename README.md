@@ -126,4 +126,4 @@ This project is open source and available for learning and experimentation.
 ---
 
 > [!NOTE]
-> **Cloud Run Deployment:** This AI agent was deployed and tested on **Google Cloud Run** as a serverless container service. The deployment has since been deleted after successful testing. The Cloud Run screenshot above is from the live deployment during testing.
+> **Cloud Run Deployment:** This AI agent was deployed and tested on **Google Cloud Run** as a serverless container service. The deployment has since been deleted after successful testing. The Cloud Run screenshot above is from the live deployment during testing
